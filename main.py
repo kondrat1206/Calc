@@ -30,4 +30,3 @@ while True:
         else:
             print(f"{in_operator} is not operator(+,-,*,/,=). Try again.")
             continue
-        
